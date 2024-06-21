@@ -1,0 +1,31 @@
+// find all duplicates in an array.
+#include <iostream>
+using namespace std;
+
+int duplicate_element(int num[], int size){
+    
+    cout<<"The repeating elements are: ";
+    for(int i=0;i<size;i++) 
+        if(num[i] == num[i+1]){
+          cout<<num[i]<<" ";  
+        } 
+}
+
+int main()
+{
+    
+    int size;
+    cout<<"Enter the size:"<<endl;
+    cin>>size;
+
+   int num[size];
+    cout<<"Enter the elements:"<<endl;
+    for(int i=0; i<size; i++)
+    {
+        cin>>num[i];
+    }
+    duplicate_element (num,size);
+    return 0;
+    }
+
+    

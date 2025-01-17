@@ -1,2 +1,2 @@
-result = 44 + 44
+result = 2 + 9
 print(result)

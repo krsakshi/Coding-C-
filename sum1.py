@@ -1,2 +1,2 @@
-result = 30 + 9
+result =49 + 9
 print(result)

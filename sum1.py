@@ -1,2 +1,2 @@
-result = 29->80
+result = 92
 print(result)

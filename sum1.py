@@ -1,2 +1,2 @@
-result = 5
+result = 2
 print(result)

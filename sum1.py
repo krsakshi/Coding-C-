@@ -1,2 +1,2 @@
-result = 49
+result = 21
 print(result)

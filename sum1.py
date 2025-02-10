@@ -1,2 +1,2 @@
-result = 29
+result = 2
 print(result)

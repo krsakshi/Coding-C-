@@ -1,2 +1,2 @@
-result = 63
+result = 2
 print(result)
